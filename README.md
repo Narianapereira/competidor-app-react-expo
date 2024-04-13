@@ -1,4 +1,5 @@
-This project is a React Native Expo Go application.
+This project is a React Native Expo Go application, created for Mobile Class at PUC Minas.
+Vídeo explaining project and showing app: https://www.loom.com/share/cd53822b476f4cc6a30b50b7976771f1?sid=5e9cb05b-7daf-4702-89f2-6139d8f55938
 
 ## Installation
 
